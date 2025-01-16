@@ -1,0 +1,51 @@
+# IntelliJ IDEA specific files
+/.idea/
+/*.iml
+/out/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+/logs/
+/*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled bytecode
+*.class
+
+# Generated files
+*.gz
+*.zip
+*.tar
+*.rar
+
+# Maven files
+target/
+dependency-reduced-pom.xml
+build.log
