@@ -12,7 +12,6 @@ public class IsPalindrome {
             } else if (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
                 right--;
             } else {
-
                 if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
                     return false;
                 }
